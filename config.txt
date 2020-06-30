@@ -1,1 +1,2 @@
 This file contain my configuration of project.
+This is project to tests commits and branchs.
